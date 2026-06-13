@@ -1,6 +1,6 @@
 # Elevator-game
 
-Originally completed on 2024  
+Originally completed on 2023  
 Course: EECS 183, University of Michigan  
 Uploaded to GitHub: 2026  
 
